@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Day Night Mode</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="register">Register</string>
+    <string name="please_enter_email">Enter Email</string>
+    <string name="sign_in">Sign-in</string>
+
+</resources>
